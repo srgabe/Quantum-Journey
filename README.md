@@ -6,7 +6,7 @@ Aprendizado Prático em Computação Quântica com Qiskit: Este repositório doc
 
 O projeto está dividido em três marcos fundamentais:
 
-1. Fundamentos e Emaranhamento (Estado de Bell): Implementação do circuito básico para gerar o estado de Bell $|\Phi^+\rangle$, demonstrando os fenômenos de Superposição e Emaranhamento entre dois qubits. Conceitos: Portas Hadamard (H) e CNOT.
+1. Fundamentos e Emaranhamento (Estado de Bell): Implementação do circuito básico para gerar o estado de Bell $|$ $\Phi^{+}$ $\rangle$, demonstrando os fenômenos de Superposição e Emaranhamento entre dois qubits. Conceitos: Portas Hadamard (H) e CNOT.
 
 2. Química Quântica: Simulação da Molécula de $H_2$. Utilização do algoritmo VQE (Variational Quantum Eigensolver) para encontrar a energia do estado fundamental da molécula de Hidrogênio em função da distância interatômica. Algoritmo: VQE com Ansatz de Amplitudes Reais. Resultado: Curva de dissociação molecular (Potencial de Morse).
 
